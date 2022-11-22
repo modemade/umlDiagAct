@@ -11741,9 +11741,9 @@
 												"$ref": "AAAAAAGEnu2LdDzc7sc="
 											},
 											"font": "Arial;13;0",
-											"left": 30.55908203125,
+											"left": 32.72998046875,
 											"top": 13,
-											"width": 102.82275390625,
+											"width": 113.0234375,
 											"height": 13,
 											"text": "DiagSeqConnexion"
 										},
@@ -11756,7 +11756,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 13,
-											"width": 12.55908203125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -13116,6 +13116,19 @@
 									"activation": {
 										"$ref": "AAAAAAGEnvRHRj4KKYc="
 									}
+								},
+								{
+									"_type": "UMLTextBoxView",
+									"_id": "AAAAAAGEn/yPSDWc/Ck=",
+									"_parent": {
+										"$ref": "AAAAAAGEnu2LdDzbDvE="
+									},
+									"font": "Arial;13;0",
+									"left": 336,
+									"top": 704,
+									"width": 297,
+									"height": 73,
+									"text": "4.0 : Erreur champs incomplet\n6.0 : Erreur bdd\n8.0 : Erreur Compte non existant"
 								}
 							]
 						}

@@ -3507,7 +3507,7 @@
 												"$ref": "AAAAAAGEn4+KHgYg4b4="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 120.72998046875,
 											"top": 13,
 											"width": 84.10986328125,
 											"height": 13,
@@ -3520,7 +3520,7 @@
 												"$ref": "AAAAAAGEn4+KHgYg4b4="
 											},
 											"font": "Arial;13;1",
-											"left": 13,
+											"left": 101,
 											"top": 13,
 											"width": 14.72998046875,
 											"height": 13,
@@ -3528,10 +3528,10 @@
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 8,
+									"left": 96,
 									"top": 8,
-									"width": 969,
-									"height": 689,
+									"width": 857,
+									"height": 673,
 									"nameLabel": {
 										"$ref": "AAAAAAGEn4+KHgYhzpc="
 									},
@@ -4888,6 +4888,19 @@
 									"activation": {
 										"$ref": "AAAAAAGEn5cGtgeW5vs="
 									}
+								},
+								{
+									"_type": "UMLTextBoxView",
+									"_id": "AAAAAAGEoArZLiNmJeM=",
+									"_parent": {
+										"$ref": "AAAAAAGEn4+KHQYfCjs="
+									},
+									"font": "Arial;13;0",
+									"left": 352,
+									"top": 720,
+									"width": 241,
+									"height": 65,
+									"text": "4.0 : Erreur information introuvable \n6.0 : Erreur Bdd\n8.0 : Erreur ajout impossible "
 								}
 							]
 						}
@@ -5071,7 +5084,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGEn4+KHQYdKhQ="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5079,7 +5093,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGEn4+KHQYdKhQ="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -5087,7 +5102,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGEn4+KHQYdKhQ="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				}
 			]
 		}
